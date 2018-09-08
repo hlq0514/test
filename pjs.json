@@ -1,0 +1,11 @@
+{
+	"pjs.foreward|block": "小车前进|转速(0~1023) %power",
+	"pjs.backward|block": "小车后退|转速(0~1023) %power",
+	"pjs.rightward|block": "小车右转|转速(0~1023) %power",
+	"pjs.leftward|block": "小车左转|转速(0~1023) %power",
+	"pjs.leftMotor_foreward|block": "左马达正转|转速(0~1023) %power",
+	"pjs.leftMotor_backward|block": "左马达反转|转速(0~1023) %power",
+	"pjs.rightMotor_foreward|block": "右马达正转|转速(0~1023) %power",
+	"pjs.rightMotor_backward|block": "右马达反转|转速(0~1023) %power",
+	"pjs.stop|block": "小车停车"
+}
