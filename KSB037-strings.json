@@ -1,11 +1,11 @@
 {
-	"KSB037.foreward|block": "Ğ¡³µÇ°½ø|×ªËÙ(0~1023) %power",
-	"KSB037.backward|block": "Ğ¡³µºóÍË|×ªËÙ(0~1023) %power",
-	"KSB037.rightward|block": "Ğ¡³µÓÒ×ª|×ªËÙ(0~1023) %power",
-	"KSB037.leftward|block": "Ğ¡³µ×ó×ª|×ªËÙ(0~1023) %power",
-	"KSB037.leftMotor_foreward|block": "×óÂí´ïÕı×ª|×ªËÙ(0~1023) %power",
-	"KSB037.leftMotor_backward|block": "×óÂí´ï·´×ª|×ªËÙ(0~1023) %power",
-	"KSB037.rightMotor_foreward|block": "ÓÒÂí´ïÕı×ª|×ªËÙ(0~1023) %power",
-	"KSB037.rightMotor_backward|block": "ÓÒÂí´ï·´×ª|×ªËÙ(0~1023) %power",
-	"KSB037.stop|block": "Ğ¡³µÍ£³µ"
+	"KSB037.foreward|block": "å°è½¦å‰è¿›|è½¬é€Ÿ(0~1023) %power",
+	"KSB037.backward|block": "å°è½¦åé€€|è½¬é€Ÿ(0~1023) %power",
+	"KSB037.rightward|block": "å°è½¦å³è½¬|è½¬é€Ÿ(0~1023) %power",
+	"KSB037.leftward|block": "å°è½¦å·¦è½¬|è½¬é€Ÿ(0~1023) %power",
+	"KSB037.leftMotor_foreward|block": "å·¦é©¬è¾¾æ­£è½¬|è½¬é€Ÿ(0~1023) %power",
+	"KSB037.leftMotor_backward|block": "å·¦é©¬è¾¾åè½¬|è½¬é€Ÿ(0~1023) %power",
+	"KSB037.rightMotor_foreward|block": "å³é©¬è¾¾æ­£è½¬|è½¬é€Ÿ(0~1023) %power",
+	"KSB037.rightMotor_backward|block": "å³é©¬è¾¾åè½¬|è½¬é€Ÿ(0~1023) %power",
+	"KSB037.stop|block": "å°è½¦åœè½¦"
 }
