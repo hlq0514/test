@@ -1,0 +1,11 @@
+{
+	"KSB037.foreward|block": "小车前进|转速(0~1023) %power",
+	"KSB037.backward|block": "小车后退|转速(0~1023) %power",
+	"KSB037.rightward|block": "小车右转|转速(0~1023) %power",
+	"KSB037.leftward|block": "小车左转|转速(0~1023) %power",
+	"KSB037.leftMotor_foreward|block": "左马达正转|转速(0~1023) %power",
+	"KSB037.leftMotor_backward|block": "左马达反转|转速(0~1023) %power",
+	"KSB037.rightMotor_foreward|block": "右马达正转|转速(0~1023) %power",
+	"KSB037.rightMotor_backward|block": "右马达反转|转速(0~1023) %power",
+	"KSB037.stop|block": "小车停车"
+}
