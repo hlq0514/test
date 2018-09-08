@@ -1,5 +1,5 @@
 //% weight=0 color=#3CB371 icon="\uf1b9"
-namespace KSB037 {
+namespace pjs {
     /**
     * 左右马达同时正转
     */
